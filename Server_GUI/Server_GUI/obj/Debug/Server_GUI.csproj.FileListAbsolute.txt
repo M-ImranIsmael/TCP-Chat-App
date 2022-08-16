@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\PROJECT\Server_GUI\Server_GUI\bin\Debug\Server_GUI.exe.config
+C:\Users\user\source\repos\PROJECT\Server_GUI\Server_GUI\bin\Debug\Server_GUI.exe
+C:\Users\user\source\repos\PROJECT\Server_GUI\Server_GUI\bin\Debug\Server_GUI.pdb
+C:\Users\user\source\repos\PROJECT\Server_GUI\Server_GUI\obj\Debug\Server_GUI.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\PROJECT\Server_GUI\Server_GUI\obj\Debug\Server_GUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\PROJECT\Server_GUI\Server_GUI\obj\Debug\Server_GUI.Properties.Resources.resources
+C:\Users\user\source\repos\PROJECT\Server_GUI\Server_GUI\obj\Debug\Server_GUI.csproj.GenerateResource.cache
+C:\Users\user\source\repos\PROJECT\Server_GUI\Server_GUI\obj\Debug\Server_GUI.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\PROJECT\Server_GUI\Server_GUI\obj\Debug\Server_GUI.exe
+C:\Users\user\source\repos\PROJECT\Server_GUI\Server_GUI\obj\Debug\Server_GUI.pdb
+C:\Users\user\source\repos\PROJECT\Server_GUI\Server_GUI\obj\Debug\Server_GUI.Server.resources
