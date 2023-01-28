@@ -7,5 +7,5 @@ This is a simple TCP chat application that allows multiple clients to connect to
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
 ## Prerequisites
-    - Visual Studio (2017 or later)
-    - .NET Framework (4.7.2 or later)
+    Visual Studio (2017 or later)
+    .NET Framework (4.7.2 or later)
