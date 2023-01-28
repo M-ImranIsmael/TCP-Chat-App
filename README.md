@@ -16,3 +16,16 @@ These instructions will get you a copy of the project up and running on your loc
 2. Run the following command: git clone https://github.com/M-ImranIsmael/TCP-Chat-App.git
 3. Open the cloned repo in Visual Studio.
 
+## Building the Solution
+
+4. Open the solution file TCP-Chat-App/Client_GUI/Client_GUI.sln in Visual Studio.
+5. Build the solution by clicking on Build > Build Solution.
+6. Repeat steps 4 and 5 for the solution file TCP-Chat-App/Server_GUI/Server_GUI.sln
+
+## Running the Executable
+
+7. After building the solution, navigate to the bin folder of the respective project.
+        * For the client: TCP-Chat-App/Client_GUI/Client_GUI/bin
+        * For the server: TCP-Chat-App/Server_GUI/Server_GUI/bin
+8. Run the executable file (Client_GUI.exe or Server_GUI.exe) to launch the application.
+
