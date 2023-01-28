@@ -24,8 +24,8 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## Running the Executable
 
-    After building the solution, navigate to the bin folder of the respective project.
+    7. After building the solution, navigate to the bin folder of the respective project.
         For the client: TCP-Chat-App/Client_GUI/Client_GUI/bin
         For the server: TCP-Chat-App/Server_GUI/Server_GUI/bin
-    Run the executable file (Client_GUI.exe or Server_GUI.exe) to launch the application.
+    8. Run the executable file (Client_GUI.exe or Server_GUI.exe) to launch the application.
 
