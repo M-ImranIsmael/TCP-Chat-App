@@ -9,3 +9,10 @@ These instructions will get you a copy of the project up and running on your loc
 ## Prerequisites
     Visual Studio (2017 or later)
     .NET Framework (4.7.2 or later)
+
+## Cloning the Repo
+
+1. Open a terminal and navigate to the directory where you want to clone the repo.
+2. Run the following command: git clone https://github.com/M-ImranIsmael/TCP-Chat-App.git
+3. Open the cloned repo in Visual Studio.
+
