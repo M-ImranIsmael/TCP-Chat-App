@@ -1,8 +1,0 @@
-[Client ]: Hello how are you?
-[Server]: i am doing fine thank you very much!
-[Client ]: that is good news!
-[Server]: how about you?
-[Client ]: i am alsmost done
-[Server]: done with what?
-[Client ]: with life?
-[Client ]: im kidding :((
