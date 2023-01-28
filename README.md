@@ -1,16 +1,11 @@
 # TCP-Chat-App
-A bidirectional chatapp in C# using TCP COM
-To run client and server GUI:
-1) Go to Client_GUI\Client_GUI\bin\Debug
-2) Run Client_GUI application
-3) Go to Server_GUI\Server_GUI\bin\Debug
-4) Run Server_GUI application
 
-To view client and server code
-1) Go to Client_GUI
-2) Run Client_GUI.sln as administrator
-1) Go to Server_GUI
-2) Run Server_GUI.sln as administrator
+This is a simple TCP chat application that allows multiple clients to connect to a server and communicate with each other in real-time. The application has a graphical user interface (GUI) for both the client and the server.
 
-Youtube Demo:
-(https://www.youtube.com/watch?v=KFczIR4cnhQ)
+## Getting Started
+
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+
+## Prerequisites
+    - Visual Studio (2017 or later)
+    - .NET Framework (4.7.2 or later)
