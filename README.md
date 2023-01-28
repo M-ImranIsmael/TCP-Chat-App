@@ -31,3 +31,8 @@ These instructions will get you a copy of the project up and running on your loc
         
 8. Run the executable file (Client_GUI.exe or Server_GUI.exe) to launch the application.
 
+## Built With
+* C#
+* .NET Framework
+* Visual Studio
+
